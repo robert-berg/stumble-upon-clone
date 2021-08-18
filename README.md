@@ -1,4 +1,4 @@
-# stumble_upon_clone
+# StumbleUpon Clone
 
 A <a href="https://en.m.wikipedia.org/wiki/StumbleUpon">StumbleUpon</a> clone built with NativeScript-Vue
 
